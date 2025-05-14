@@ -1,0 +1,12 @@
+{
+  "name": "cypress-e2e-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress open"
+  },
+  "keywords": ["cypress", "e2e"],
+  "author": "",
+  "license": "ISC"
+}
