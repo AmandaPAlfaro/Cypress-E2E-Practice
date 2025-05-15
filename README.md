@@ -5,6 +5,7 @@
 #         Steps
 # *-----------------------------*
 # Cypress-E2E-Practice
+# npm init -y
 # 1. npm install cypress --save-dev
 # 2. npm install
 # 3. npx cypress open
